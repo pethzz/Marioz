@@ -9,4 +9,4 @@
 
 ● Cs 1.6 ⛉ : https://www.csrevo.com/2020/01/baixar-cs-16-full-v11.html
 
-# ● Site ⌕ : https://cursor-light.preview.emergentagent.com/
+● Site ⌕ : https://cursor-light.preview.emergentagent.com/
