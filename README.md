@@ -1,4 +1,4 @@
-# 🟣 Marioz hub
+# ☣ Marioz hub
 
 ●tarefas ☑ : https://platformdestroyer.fun/tarefas
 
