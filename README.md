@@ -11,3 +11,4 @@
 
 ● Site ⌕ : https://cursor-light.preview.emergentagent.com/
 
+Não é errado -- é estratégia ⚠️
