@@ -11,7 +11,7 @@
 
 ● Site ⌕ : https://cursor-light.preview.emergentagent.com/
 
-● Tools 🔨 : start.me/p/L1rEYQ/osint4all ( Ctrl C + Ctrl V)
+● Tools 🔨 : https://start.me/p/L1rEYQ/osint4all
 
 
 
