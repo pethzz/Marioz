@@ -11,4 +11,8 @@
 
 ● Site ⌕ : https://cursor-light.preview.emergentagent.com/
 
+● Tools 🔨 : start.me/p/L1rEYQ/osint4all
+
+
+
 Não é errado -- é estratégia ⚠️
