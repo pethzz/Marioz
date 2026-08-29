@@ -8,6 +8,7 @@ Bem vindo! sinta-se a vontade ;)
 
 -------
 
+
 #   Scripts ⌨️  (CMSP)
 
 ● zunder ☑ : https://platformdestroyer.fun/tarefas
