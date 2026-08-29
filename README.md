@@ -5,7 +5,7 @@
 ● OpenFuture ☑ :https://openfuture.lol/
 
 
-# VPN ᯤ (Unlock) 
+# VPN 🌐 (Unlock) 
 
 ● LINK ᯤ : https://chromewebstore.google.com/detail/vpn-grátis-free-vpn-1vpn/akcocjjpkmlniicdeemdceeajlmoabh
 
