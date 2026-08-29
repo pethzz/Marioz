@@ -1,15 +1,20 @@
-# 🍄 Marioz hub
+# Scripts (CMSP)
+
+● zunder ☑ : https://platformdestroyer.fun/tarefas
+
+● OpenFuture ☑ :https://openfuture.lol/
 
 
-● tarefas ☑ : https://platformdestroyer.fun/tarefas
+# VPN ᯤ (Unlock) 
 
-● un ethernet ᯤ : https://chromewebstore.google.com/detail/vpn-grátis-free-vpn-1vpn/akcocjjpkmlniicdeemdceeajlmoabhg
+● LINK ᯤ : https://chromewebstore.google.com/detail/vpn-grátis-free-vpn-1vpn/akcocjjpkmlniicdeemdceeajlmoabh
+
+(🗒️nota: caso você esteja no notebook, utilize o navegador "Firefox" no qual pode ser encontrado na tela inicial do dispositivo) 
+
+
+# Tools (Utilidades)
 
 ● jogos ☠︎ : https://www.apkworld.de/
-
-● Cs 1.6 ⛉ : https://www.csrevo.com/2020/01/baixar-cs-16-full-v11.html
-
-● Site ⌕ : https://cursor-light.preview.emergentagent.com/
 
 ● Tools 🔨 : https://start.me/p/L1rEYQ/osint4all
 
