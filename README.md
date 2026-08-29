@@ -1,4 +1,4 @@
-# ⌨️ Scripts (CMSP)
+#   Scripts ⌨️  (CMSP)
 
 ● zunder ☑ : https://platformdestroyer.fun/tarefas
 
@@ -12,7 +12,7 @@
 (🗒️nota: caso você esteja no notebook, utilize o navegador "Firefox" no qual pode ser encontrado na tela inicial do dispositivo) 
 
 
-# ⚒️ Tools (Utilidades)
+# Tools ⚒️ (Utilidades)
 
 ● jogos ☠︎ : https://www.apkworld.de/
 
